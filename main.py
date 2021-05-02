@@ -106,3 +106,5 @@ from gensim.models import Word2Vec
 #print(leaves_vec.wv.most_similar('pain', topn=6))
 # does not work, error: No module named 'gensim'
 
+#GG
+
